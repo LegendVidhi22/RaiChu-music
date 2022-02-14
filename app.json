@@ -1,5 +1,5 @@
 {
-    "name": "RaiChu Music Bot",
+    "name": "𝙢𝙚𝙤𝙬",
     "description": "Telegram bot for Streaming  Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
     "logo": "https://telegra.ph/file/1c41ded2dd871eb36bd7e.png",
     "keywords": [
@@ -46,22 +46,22 @@
         "GROUP_SUPPORT": {
             "description": "if you have group, then fill the group username here without @",
             "required": false,
-            "value": "RaiChuOfficial"
+            "value": "sofiasupport"
         },
         "UPDATES_CHANNEL": {
             "description": "if you have channel, then fill the channel username here without @",
             "required": false,
-            "value": "RaiChuUpdate"
+            "value": ""
         },
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
             "required": false,
-            "value": "RaiChuXD"
+            "value": "𝙈𝙚𝙤𝙬"
         },
         "ALIVE_NAME": {
             "description": "fill with your telegram account nickname/name",
             "required": false,
-            "value": "RaiChuXMusic"
+            "value": "𝙈𝙚𝙤𝙬"
         }
     },
     "addons": [],
